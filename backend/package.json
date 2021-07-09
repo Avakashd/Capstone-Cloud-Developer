@@ -1,7 +1,7 @@
 {
-  "name": "serverless-daily-diary",
+  "name": "serverless-travel",
   "version": "1.0.0",
-  "description": "Serverless Daily Diary App",
+  "description": "Serverless travel App",
   "dependencies": {
     "@types/axios": "^0.14.0",
     "@types/http-errors": "^1.6.1",
